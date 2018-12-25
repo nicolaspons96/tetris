@@ -5,6 +5,6 @@ Controls:
 - move forward : ⬇️
 - move left: ⬅️
 - move right : ➡️
-- rotate: Q
+- rotate: W
 
 Have fun !
